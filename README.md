@@ -18,6 +18,6 @@ This project was developed using the Python programming language. The following 
         
         pymongo: A library used for performing MongoDB database operations.
         
-Sample Image
+Sample Image From MongoDB
         
 ![Ekran görüntüsü 2023-03-04 034152](https://user-images.githubusercontent.com/73306696/222862267-08693a3f-7b45-4c71-b504-aca44b6263f9.png)
